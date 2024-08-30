@@ -1,0 +1,15 @@
+A random data generator can be useful
+ if you're doing cross-browser testing. 
+ For example, if you need to write tests
+  that fill forms with random data (such
+   as random strings or random zip codes),
+    then you can use this program to generate 
+    as many random data elements as you need 
+    and put them in your test cases. You can
+     independently generate random strings 
+     of any length made out of lowercase or
+      uppercase characters, including single-character
+       strings. You can also generate random numbers
+        and random text snippets from a custom 
+        alphabet. The generated data can also be used for random 
+        file names or random IDs in tests.
